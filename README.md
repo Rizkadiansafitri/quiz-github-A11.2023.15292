@@ -1,3 +1,10 @@
+Nama: Rizka Dian Safitri
+NIM: A11.2023.15292
+Kelas: DEV - 04 (H.7.1)
+Mata Kuliah: Bengkel Koding
+
+Deskripsi: 
+Repository ini dibuat untuk menyimpan dan mengumpulkan tugas-tugas dari mata kuliah Bengkel Koding.
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
